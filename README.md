@@ -19,6 +19,10 @@ N/A
 
 Refer to the License in the repository.
 
+## Webiste
+https://timo9939.github.io/prework-study-guide/
 
+## Repository Website
+https://github.com/timo9939/prework-study-guide/blob/main/README.md
 
 
